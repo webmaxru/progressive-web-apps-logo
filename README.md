@@ -2,6 +2,19 @@
 
 ![pwa](https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png)
 
+### Author
+* [Diego (diekus) González-Zúñiga](http://diekus.net/), [Twitter @diekus](https://twitter.com/diekus), [GitHub @diekus](https://github.com/diekus)
+
+### Hashtag
+* [#pwalogo](https://twitter.com/search?f=tweets&vertical=default&q=%23pwalogo&src=typd&lang=en)
+
+### History:
+* [The initial proposals](https://github.com/webmaxru/progressive-web-apps-logo/blob/master/PROPOSALS-HISTORY.md)
+* [Voting](https://github.com/webmaxru/progressive-web-apps-logo/issues/3)
+* [Summary blog post by Peter O'Shaughnessy](https://medium.com/samsung-internet-dev/we-now-have-a-community-approved-progressive-web-apps-logo-823f212f57c9)
+
+## Description:
+
 PWA letters with an emphasis on the "W" with different colors, textures or graphics. The cuts between the letters remind of the // in the URL. It can be used in dark or light fonts, and can easily be adapted into icons, stickers, or other use cases.
 
 Logo is based in a dark or light font, in order for it to adapt to many use scenarios. It can be used in any color. It is suggested that the W stands out in order to highlight the "Web" part of PWA. Nonetheless all three letters in one looks also great! It is your logo, feel free to adapt it. Base colors are:
