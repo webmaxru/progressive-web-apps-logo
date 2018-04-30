@@ -54,6 +54,16 @@ It can be used with other logos (examples here show different browsers that supp
 
 [http://diekus.net/images/PWA_LOGO_SOURCE.svg](http://diekus.net/images/PWA_LOGO_SOURCE.svg)
 
+## Appstores-like buttons
+
+![bundle_pwa](https://user-images.githubusercontent.com/9122190/28998409-c5bf7362-7a00-11e7-9b63-db56694522e7.png)
+
+![bundle_pwa](https://user-images.githubusercontent.com/9122190/28998498-0df3c0c8-7a03-11e7-8780-2c71d0b3330e.png)
+
+Thanks to https://github.com/gabfiocchi for this contribution
+
+
+
 ## Tip
 
 Get creative. This logo will look great in any environment you put it on. That's what it was made for. :) Enjoy!
