@@ -74,8 +74,7 @@ Feel free to post and share remixed uses and creations in the comments. Would lo
 
 ## Some key usecases
 
-Google I/O 2018 (screenshot by [Maximiliano Firtman](https://github.com/firt))
-
+Google I/O 2018 (screenshot by [Maximiliano Firtman](https://twitter.com/firt))
 ![io2018](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/usecases/io2018.jpg)
 
 Microsoft Build 2018
