@@ -1,4 +1,4 @@
-# "Community-Approved" PWA logo
+# Community-introduced and widely adopted PWA logo
 
 ![pwa](https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png)
 
@@ -71,6 +71,16 @@ Get creative. This logo will look great in any environment you put it on. That's
 ![pwasw](https://user-images.githubusercontent.com/3104648/28352346-cd52892c-6c4d-11e7-9052-007a9f4f956c.png)
 
 Feel free to post and share remixed uses and creations in the comments. Would love to see how the logo, as the PWA themselves, adapt to different scenarios like slides, posts, and swag. :)
+
+## Some key usecases
+
+Google I/O 2018 (screenshot by [Maximiliano Firtman](https://github.com/firt))
+
+![io2018](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/usecases/io2018.jpg)
+
+Microsoft Build 2018
+![msbuild2018](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/usecases/msbuild2018.jpg)
+
 
 ### License
 The licence is [ https://creativecommons.org/share-your-work/public-domain/cc0/ ](https://creativecommons.org/share-your-work/public-domain/cc0/), i.e. dedicated to the public domain.
