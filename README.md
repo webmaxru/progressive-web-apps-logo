@@ -3,7 +3,7 @@
 ![pwa](https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png)
 
 ### Author
-* [Diego (diekus) González-Zúñiga](http://diekus.net/), [Twitter @diekus](https://twitter.com/diekus), [GitHub @diekus](https://github.com/diekus)
+* [Diego (diekus) González-Zúñiga](http://diekus.com/), [Twitter @diekus](https://twitter.com/diekus), [GitHub @diekus](https://github.com/diekus)
 
 ### Hashtag
 * [#pwalogo](https://twitter.com/search?f=tweets&vertical=default&q=%23pwalogo&src=typd&lang=en)
@@ -23,7 +23,7 @@ Logo is based in a dark or light font, in order for it to adapt to many use scen
 
 ## Vector source:
 
-The easiest way to start using the logo is getting a vector file. You can create and download your own SVG file with color combination at [https://diekus.net/logo-pwinter/](https://diekus.net/logo-pwinter/) (also a PWA!)
+The easiest way to start using the logo is getting a vector file. You can create and download your own SVG file with color combination at [https://diekus.com/logo-pwinter/](https://diekus.com/logo-pwinter/) (also a PWA!)
 
 ![capture](https://user-images.githubusercontent.com/3104648/28352657-9d13b9a0-6c4f-11e7-8e8c-1b55e9d4d07a.PNG)
 
@@ -52,7 +52,7 @@ It can be used with other logos (examples here show different browsers that supp
 
 ## SVG Source File Download
 
-[http://diekus.net/images/PWA_LOGO_SOURCE.svg](http://diekus.net/images/PWA_LOGO_SOURCE.svg)
+[http://diekus.com/images/PWA_LOGO_SOURCE.svg](http://diekus.com/images/PWA_LOGO_SOURCE.svg)
 
 ## Appstores-like buttons
 
