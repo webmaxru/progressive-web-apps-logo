@@ -5,7 +5,7 @@ Progressive Web Applications (PWA) Logo By The Community
 
 This is just a proposal. Please feel free to contribute by posting the issues and/or sending pull requests.
 
-![PWA Logo (PNG)](pwa-logo.png)
+![PWA Logo (PNG)](archive/proposal-webmaxru/pwa-logo.png)
 
 # Tech Specs
 - Color #2B50A3 + white
@@ -21,7 +21,7 @@ This is just a proposal. Please feel free to contribute by posting the issues an
 
 # Alternative Proposal - Josh Moont
 
-![PWA Logo (PNG)](proposal-joshm/pwa-logo.png)
+![PWA Logo (PNG)](archive/proposal-joshm/pwa-logo.png)
 
 # Tech Specs
 - Base Color #2B50A3
@@ -39,13 +39,13 @@ This is just a proposal. Please feel free to contribute by posting the issues an
 
 # Alternative Proposal - diekus
 
-![PWA Logo (PNG)](proposal-diekus/pwalogo2.png)
+![PWA Logo (PNG)](archive/proposal-diekus/pwalogo2.png)
 
 # Tech Specs
 - white/#3D3D3D with optional colorful "W"
 
 # Source
-- [PWA Logo (SVG)](proposal-diekus/pwa_diekus.svg)
+- [PWA Logo (SVG)](archive/proposal-diekus/pwa_diekus.svg)
 
 # Contact
 - [diekus](mailto:diekus@gmail.com)
