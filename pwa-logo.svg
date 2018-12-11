@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="53.6222mm" height="53.6222mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5362 5362"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <polygon style="fill:#3C59A6;fill-rule:nonzero" points="5362,5362 0,5362 0,0 5362,0 "/>
+  <g>
+   <path style="fill:#FEFEFE;fill-rule:nonzero" d="M1317 4403l0 458 -267 0 0 -1300 507 0c97,0 183,18 257,54 74,36 131,86 171,152 40,66 60,141 60,225 0,127 -44,227 -131,301 -87,73 -208,110 -362,110l-235 0zm0 -217l0 0 240 0c70,0 124,-17 162,-50 37,-33 55,-81 55,-143 0,-63 -18,-115 -56,-154 -37,-39 -89,-59 -155,-61l-246 0 0 408z"/>
+   <polygon style="fill:#FEFEFE;fill-rule:nonzero" points="3240,4486 3415,3561 3682,3561 3394,4861 3124,4861 2913,3992 2701,4861 2432,4861 2144,3561 2410,3561 2586,4484 2800,3561 3027,3561 "/>
+   <path style="fill:#FEFEFE;fill-rule:nonzero" d="M4522 4593l-470 0 -89 268 -285 0 484 -1300 248 0 486 1300 -284 0 -90 -268zm-397 -217l0 0 324 0 -163 -486 -161 486z"/>
+  </g>
+ </g>
+</svg>
