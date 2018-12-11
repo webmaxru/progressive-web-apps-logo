@@ -59,10 +59,6 @@ It can be used with other logos (examples here show different browsers that supp
 
 ![pwaw](https://user-images.githubusercontent.com/3104648/28352047-0a085920-6c4c-11e7-9b9c-c0d428ba66a1.gif)
 
-## SVG Source File Download
-
-[http://diekus.com/images/PWA_LOGO_SOURCE.svg](http://diekus.com/images/PWA_LOGO_SOURCE.svg)
-
 ## Appstores-like buttons
 
 ![bundle_pwa](https://user-images.githubusercontent.com/9122190/28998409-c5bf7362-7a00-11e7-9b63-db56694522e7.png)
@@ -92,6 +88,8 @@ Google I/O 2018 (screenshot by [Maximiliano Firtman](https://twitter.com/firt))
 Microsoft Build 2018
 ![msbuild2018](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/usecases/msbuild2018.jpg)
 
+## PWA Slack Team
+Join thousands of the developers discussing PWA in the open [PWA slack team](https://bit.ly/go-pwa-slack).
 
 ### License
 The licence is [ https://creativecommons.org/share-your-work/public-domain/cc0/ ](https://creativecommons.org/share-your-work/public-domain/cc0/), i.e. dedicated to the public domain.
