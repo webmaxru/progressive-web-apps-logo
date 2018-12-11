@@ -23,7 +23,13 @@ Logo is based in a dark or light font, in order for it to adapt to many use scen
 
 ## Vector source:
 
-The easiest way to start using the logo is getting a vector file. You can create and download your own SVG file with color combination at [https://diekus.com/logo-pwinter/](https://diekus.com/logo-pwinter/) (also a PWA!)
+[pwalogo.svg](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo.svg)
+
+[pwalogo-inverse.svg](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo-inverse.svg)
+
+[pwalogo-white.svg](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo-white.svg)
+
+Also, you can create and download your own SVG file with color combination at [https://diekus.com/logo-pwinter/](https://diekus.com/logo-pwinter/) (also a PWA!)
 
 ![capture](https://user-images.githubusercontent.com/3104648/28352657-9d13b9a0-6c4f-11e7-8e8c-1b55e9d4d07a.PNG)
 
@@ -73,6 +79,9 @@ Get creative. This logo will look great in any environment you put it on. That's
 Feel free to post and share remixed uses and creations in the comments. Would love to see how the logo, as the PWA themselves, adapt to different scenarios like slides, posts, and swag. :)
 
 ## Some key usecases
+
+Google Chrome browser starting from M73 (DevTools -> Audit -> PWA)
+![chrome](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/usecases/chrome.png)
 
 Google I/O 2018 (screenshot by [Maximiliano Firtman](https://twitter.com/firt))
 ![io2018](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/usecases/io2018.jpg)
