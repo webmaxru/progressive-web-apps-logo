@@ -5,6 +5,9 @@
 ### Author
 * [Diego (diekus) González-Zúñiga](http://diekus.com/), [Twitter @diekus](https://twitter.com/diekus), [GitHub @diekus](https://github.com/diekus)
 
+### General idea igniter, facilitator
+* [Maxim Salnikov](https://medium.com/@webmaxru/), [Twitter @webmaxru](https://twitter.com/webmaxru), [GitHub @webmaxru](https://github.com/webmaxru)
+
 ### Hashtag
 * [#pwalogo](https://twitter.com/search?f=tweets&vertical=default&q=%23pwalogo&src=typd&lang=en)
 
@@ -23,11 +26,11 @@ Logo is based in a dark or light font, in order for it to adapt to many use scen
 
 ## Vector source:
 
-[pwalogo.svg](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo.svg)
+[pwalogo.svg](https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo.svg) | [download](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo.svg)
 
-[pwalogo-inverse.svg](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo-inverse.svg)
+[pwalogo-inverse.svg](https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo-inverse.svg) | [download](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo-inverse.svg)
 
-[pwalogo-white.svg](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo-white.svg)
+[pwalogo-white.svg](https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo-white.svg) | [download](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo-white.svg)
 
 Also, you can create and download your own SVG file with color combination at [https://diekus.com/logo-pwinter/](https://diekus.com/logo-pwinter/) (also a PWA!)
 
