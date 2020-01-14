@@ -89,7 +89,7 @@ Microsoft Build 2018
 ![msbuild2018](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/usecases/msbuild2018.jpg)
 
 ## PWA Slack Team
-Join thousands of the developers discussing PWA in the open [PWA slack team](https://bit.ly/go-pwa-slack).
+Join thousands of the developers discussing PWA in the open [PWA slack team](https://aka.ms/pwa-slack).
 
 ### License
 The licence is [ https://creativecommons.org/share-your-work/public-domain/cc0/ ](https://creativecommons.org/share-your-work/public-domain/cc0/), i.e. dedicated to the public domain.
