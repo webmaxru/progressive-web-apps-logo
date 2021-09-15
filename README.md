@@ -32,7 +32,7 @@ Logo is based in a dark or light font, in order for it to adapt to many use scen
 
 [pwalogo-white.svg](https://github.com/webmaxru/progressive-web-apps-logo/blob/master/pwalogo-white.svg) | [download](https://github.com/webmaxru/progressive-web-apps-logo/raw/master/pwalogo-white.svg)
 
-Also, you can create and download your own SVG file with color combination at [https://diekus.com/logo-pwinter/](https://diekus.com/logo-pwinter/) (also a PWA!)
+Also, you can create and download your own SVG file with color combination at [https://diek.us/pwinter/](https://diek.us/pwinter/) (also a PWA!)
 
 ![capture](https://user-images.githubusercontent.com/3104648/28352657-9d13b9a0-6c4f-11e7-8e8c-1b55e9d4d07a.PNG)
 
